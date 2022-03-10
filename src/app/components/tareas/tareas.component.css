@@ -1,0 +1,13 @@
+input { 
+    text-align: center;
+}
+
+.cursor { 
+    cursor: pointer;
+}
+.trash:hover { 
+    color: red;
+}
+li:hover {
+    opacity: 0.7;
+}
